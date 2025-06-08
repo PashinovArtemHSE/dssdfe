@@ -61,7 +61,7 @@ python crypto_alert_bot.py
 
 ## 📊 Пример графика
 
-![image.png](https://postimg.cc/Z0nydP1t)
+![image.png](https://i.postimg.cc/Kcr7CJfz/image.png)
 
 ## ⚠️ Ограничения
 
