@@ -52,13 +52,13 @@ python crypto_alert_bot.py
    ![image3.png](https://i.postimg.cc/Hnhb3P0s/Screenshot-2025-0608-160745.jpg)
 
 2. **Получайте уведомления**, когда цена изменится на заданный процент:
-   ![image2.png](https://i.postimg.cc/zX2xPxDh/Screenshot-2025-0608-160354.jpg)
+![image2.png](https://i.postimg.cc/zX2xPxDh/Screenshot-2025-0608-160354.jpg)
 
-4. **Просматривайте графики** с помощью команды `/plot`:
+3. **Просматривайте графики** с помощью команды `/plot`:
 - График показывает цену за последние 60 минут
 - Оранжевая линия — среднее значение
 - Зона вокруг средней линии — стандартное отклонение (±1σ)
-  ![image.png](https://i.postimg.cc/Kcr7CJfz/image.png)
+![image.png](https://i.postimg.cc/Kcr7CJfz/image.png)
 
 ## ⚠️ Ограничения
 
