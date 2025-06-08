@@ -90,3 +90,18 @@ python crypto_alert_bot.py
 | Пашинов Артём     | [@amstr](https://t.me/amstr) | • Анализ данных<br>• Тестирование<br>• Написание Readme для пользователей|
 
 *Версия бота: 1.0*  
+sequenceDiagram
+    participant User
+    participant Bot
+    participant BinanceAPI
+    
+    User->>Bot: /set BTCUSDT 5
+    Bot->>BinanceAPI: Запрос текущей цены
+    BinanceAPI-->>Bot: 42000.50
+    Bot->>User: Пара добавлена (42000.50)
+    
+    loop Каждые 10 сек
+        Bot->>BinanceAPI: Проверить цену
+        BinanceAPI-->>Bot: 44100.52 (+5.01%)
+        Bot->>User: Уведомление!
+    end
