@@ -1,11 +1,6 @@
 # 📈 Crypto Price Alert Bot - Руководство пользователя
 
 ![Баннер бота](https://public.bnbstatic.com/image/cms/blog/20230927/061b8876-956c-46ce-8123-643902a04d70.png)
-<div align="center">
-  <img src="https://i.postimg.cc/zX2xPxDh/Screenshot-2025-0608-160354.jpg" width="30%" alt="Notification Example">
-  <img src="https://i.postimg.cc/Kcr7CJfz/image.png" width="30%" alt="Price Chart">
-  <img src="https://i.postimg.cc/Hnhb3P0s/Screenshot-2025-0608-160745.jpg" width="30%" alt="Settings">
-</div>
 
 ## 🌟 О боте
 
