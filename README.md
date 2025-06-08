@@ -49,7 +49,7 @@ python crypto_alert_bot.py
 1. **Установите условие** с помощью команды `/set`
    - Введите пару и процент изменения (например: `BTCUSDT 5`)
    - Бот запомнит текущую цену и будет отслеживать изменения
-     ![image3.png](https://i.postimg.cc/Hnhb3P0s/Screenshot-2025-0608-160745.jpg)
+   ![image3.png](https://i.postimg.cc/Hnhb3P0s/Screenshot-2025-0608-160745.jpg)
 
 2. **Получайте уведомления**, когда цена изменится на заданный процент:
    ![image2.png](https://i.postimg.cc/zX2xPxDh/Screenshot-2025-0608-160354.jpg)
